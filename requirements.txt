@@ -170,7 +170,7 @@ packaging==26.0
     #   wheel
 pandas==2.3.3
     # via cirq-core
-pillow==11.0.0
+pillow==12.1.1
     # via matplotlib
 platformdirs==4.5.1
     # via
